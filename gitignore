@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# pycharm
+.idea/
+
+# data & generated charts (keep the repo lean)
+data/*
+!data/.gitkeep
+output/*
+!output/.gitkeep
